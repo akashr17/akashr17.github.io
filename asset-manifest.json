@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.98131e5c.css",
-    "main.js": "/static/js/main.2f6e92b0.js",
+    "main.js": "/static/js/main.9226f9c8.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/overlay.png": "/static/media/overlay.3b98246c98cd78838690.png",
     "static/media/entertainment_robot.png": "/static/media/entertainment_robot.ef48a1da8f9530bbe96d.png",
@@ -19,16 +19,15 @@
     "static/media/proj-img-2.png": "/static/media/proj-img-2.43c088cbb35060a4d7b1.png",
     "static/media/css.png": "/static/media/css.91d55a02ae63469d1a5d.png",
     "static/media/Akash_Randhawa_Resume_2022.pdf": "/static/media/Akash_Randhawa_Resume_2022.48cd652a512c152ccb1d.pdf",
-    "static/media/logo-2.png": "/static/media/logo-2.bfa9b123c75c6e51c771.png",
     "static/media/flutter-removebg-preview.png": "/static/media/flutter-removebg-preview.33552a1c78c75ebe7287.png",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/index.html",
     "main.98131e5c.css.map": "/static/css/main.98131e5c.css.map",
-    "main.2f6e92b0.js.map": "/static/js/main.2f6e92b0.js.map",
+    "main.9226f9c8.js.map": "/static/js/main.9226f9c8.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98131e5c.css",
-    "static/js/main.2f6e92b0.js"
+    "static/js/main.9226f9c8.js"
   ]
 }
