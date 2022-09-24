@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.98131e5c.css",
-    "main.js": "/static/js/main.a9e3148f.js",
+    "main.css": "/static/css/main.bcb464ab.css",
+    "main.js": "/static/js/main.a12b818f.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/overlay.png": "/static/media/overlay.3b98246c98cd78838690.png",
-    "static/media/entertainment_robot.png": "/static/media/entertainment_robot.56410d21e72e38b12b77.png",
+    "static/media/proj-img-3.png": "/static/media/proj-img-3.56410d21e72e38b12b77.png",
     "static/media/python.png": "/static/media/python.2dfe992c8ec71825b301.png",
     "static/media/banner-bg-2.jpg": "/static/media/banner-bg-2.4f472066c79fc3964afc.jpg",
     "static/media/react.png": "/static/media/react.6bcffb56bd0efaa47767.png",
@@ -22,12 +22,12 @@
     "static/media/flutter-removebg-preview.png": "/static/media/flutter-removebg-preview.33552a1c78c75ebe7287.png",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/index.html",
-    "main.98131e5c.css.map": "/static/css/main.98131e5c.css.map",
-    "main.a9e3148f.js.map": "/static/js/main.a9e3148f.js.map",
+    "main.bcb464ab.css.map": "/static/css/main.bcb464ab.css.map",
+    "main.a12b818f.js.map": "/static/js/main.a12b818f.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98131e5c.css",
-    "static/js/main.a9e3148f.js"
+    "static/css/main.bcb464ab.css",
+    "static/js/main.a12b818f.js"
   ]
 }
